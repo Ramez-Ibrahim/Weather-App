@@ -12,7 +12,7 @@ This is a simple weather dashboard application that allows users to check the cu
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Ramez08/Weather-App.git>
    cd weather-app
    ```
 
