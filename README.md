@@ -31,7 +31,7 @@ This is a simple weather dashboard application that allows users to check the cu
 ## Credits
 
 - Weather data provided by [OpenWeatherMap API](https://openweathermap.org/).
-- This project was based on a [video tutorial](https://youtu.be/SeXg3AX82ig?si=f0q6Qo29C8aLXY_y).
+- This project was based on a [video tutorial](https://youtu.be/SeXg3AX82ig?si=f0q6Qo29C8aLXY_y) By CodingNepal.
 
 ## License
 
